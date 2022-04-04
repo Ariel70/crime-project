@@ -1,1 +1,1 @@
-"web: gunicorn crime_project.wsgi" 
+"web: gunicorn crime-project.wsgi" 
